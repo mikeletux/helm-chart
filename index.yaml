@@ -2,17 +2,17 @@ apiVersion: v1
 entries:
   stakefish-chart:
   - apiVersion: v2
-    appVersion: sha-7d1d05b
-    created: "2023-02-27T16:10:27.183794438Z"
+    appVersion: sha-97c2d19
+    created: "2023-02-27T16:35:54.226166683Z"
     dependencies:
     - name: postgresql
       repository: https://charts.bitnami.com/bitnami
       version: 12.1.15
     description: A Helm chart to deploy stakefish Rest API
-    digest: e41148441344ee51bf434c076e34e0f8731375a77b0406f35548e9bc46721245
+    digest: ab61ea4aff200bd313fff87f14daf72c55b43b32583b0dc51879913dcf6b7707
     name: stakefish-chart
     type: application
     urls:
     - https://mikeletux.github.io/helm-chart/stakefish-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-02-27T16:10:27.177712669Z"
+generated: "2023-02-27T16:35:54.219955319Z"
